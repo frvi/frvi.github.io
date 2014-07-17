@@ -17,10 +17,16 @@ Discussing the thoughts and ideas behind the *four rules of simple design*...
 3. Express all the ideas the author wants to express
 4. Minimize classes and methods
 
+
 ### Game of Life
+*Beskriv Game of Life, kanske en implementation i Python och/eller Go?*
 
 
 ### Book itself
+*Vad tyckte jag om boken?*
+
+
+### My thoughts on *the rules*
 
 
 ### Further reading
