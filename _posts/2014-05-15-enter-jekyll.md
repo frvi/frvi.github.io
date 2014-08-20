@@ -5,8 +5,10 @@ title: Enter, Jekyll
 
 # {{ page.title }}
 
-*15 May 2014 - Stockholm, Sweden*
+*20 Aug 2014 - Stockholm, Sweden*
 
 First.
 
-<http://google.se>
+On this blog I'll post stuff related to my work as a devopsy software developer.
+
+<http://fredrik.io>
