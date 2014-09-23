@@ -3,6 +3,10 @@
 /* Common
 /*
 /*****************************************************************************/
+@font-face {
+  font-family: 'AlpacaScarlett';
+  src: url("../fonts/AlpacaScarlett.ttf");
+}
 
 /* Global Reset */
 
@@ -24,6 +28,9 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%;
+  font-family: "AlpacaScarlett";
+  text-transform: uppercase;
+  color: #a3cbd2;
 }
 
 h1 {
@@ -57,10 +64,6 @@ table {
 /*
 /*****************************************************************************/
 
-@font-face {
-  font-family: 'AlpacaScarlett';
-  src: 'http://fredrik.io/fonts/AlpacaScarlett.ttf'
-}
 
 ul.posts {
   list-style-type: none;
