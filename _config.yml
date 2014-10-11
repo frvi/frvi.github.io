@@ -1,13 +1,10 @@
 # Conversion
-markdown: kramdown
+markdown: redcarpet
 highlighter: pygments
 
 # Outputting
 permalink: pretty
 
 # Markdown processors
-kramdown:
-  input: GFM
-
 redcarpet:
-  extensions: []
+  extensions: ["tables"]
