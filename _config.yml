@@ -1,4 +1,13 @@
+# Conversion
+markdown: kramdown
 highlighter: pygments
 
+# Outputting
 permalink: pretty
 
+# Markdown processors
+kramdown:
+  input: GFM
+
+redcarpet:
+  extensions: []
