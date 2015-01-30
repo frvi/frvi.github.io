@@ -8,7 +8,7 @@ title:  Continous Integration and Continous Deployment with Node.js and AngularJ
 *XX Oct 2014 - Stockholm, Sweden*
 
 *intro...*
-Pluralsight bla bla
+A course over at [Pluralsight](http://www.pluralsight.com/courses/continuous-integration-deployment-angularjs-nodejs) by [Alexander Zanfir](https://twitter.com/alexzanderzan).
 
 Heroku
 
@@ -58,6 +58,25 @@ var jobSchema = mongoose.Schema({
 ```
 
 Mongolab...
+<https://mongolab.com/>
+### Testing
+
+mocha and chai
+
+
+## js
+
+asynchrounus calls and nested callbacks - bluebird; helps deal with exceptions and errors
+
+Use Promise/bluebird to get a readable story, to get rid of the nested callbacks.
+
+x.then() replaces anonymuos x.exec(function())
+
+```javascript
+var Promise = require("bluebird");
+```
+
+bluebird is a fully featured Promise library, with good performance.
 
 ### Further reading
 * pluralsight

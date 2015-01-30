@@ -30,7 +30,7 @@ Now run `wifi-menu`, and select your wifi.
 
 Use `netctl` to configure autostart of your wlan interface:
 
-```
+```bash
 netctl list
 netctl enable wlan0-<name>
 ```
@@ -39,7 +39,6 @@ netctl enable wlan0-<name>
 Installing docker just as easy as anything!
 
 `pacman -S docker`
-
 
 ## Hello, World!
 Now let's fire up an application.
