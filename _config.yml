@@ -1,10 +1,5 @@
 # Conversion
-markdown: redcarpet
 highlighter: pygments
 
 # Outputting
 permalink: pretty
-
-# Markdown processors
-redcarpet:
-  extensions: ["tables"]
