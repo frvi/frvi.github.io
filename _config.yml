@@ -1,5 +1,5 @@
 # Conversion
-highlighter: pygments
+highlighter: rouge
 
 # Outputting
 permalink: pretty
